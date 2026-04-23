@@ -1,0 +1,9 @@
+{
+  "cleanUrls": false,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "http://136.114.163.91:18082/$1"
+    }
+  ]
+}
